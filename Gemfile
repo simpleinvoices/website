@@ -1,3 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
+
+gem 'jekyll'
 gem 'github-pages'
-gemspec
+gem 'jekyll-srcset'
+gem 'jekyll-minifier'
+gem 'jekyll-sitemap'
